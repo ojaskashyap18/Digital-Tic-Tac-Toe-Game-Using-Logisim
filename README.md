@@ -59,19 +59,19 @@ This project uses digital logic (AND, OR, NOT gates, multiplexers, and optional 
 ## 📸 Screenshots
 
 ### Tic Tac Toe Circuit (Final)
-![Tic Tac Toe Circuit](Screenshots/tic tac toe circuit diagram final.jpg)
+![Tic Tac Toe Circuit](Screenshots/tic%20tac%20toe%20circuit%20diagram%20final.jpg)
 
 ### Winning Combinations Logic
-![Winning Combinations](Screenshots/circuit diagram for winning combinations.jpg)
+![Winning Combinations](Screenshots/circuit%20diagram%20for%20winning%20combinations.jpg)
 
 ### Counter Logic
-![Counter Logic](Screenshots/circuit diagram for counter .jpg)
+![Counter Logic](Screenshots/circuit%20diagram%20for%20counter%20.jpg)
+
 
 ## 🎬 Demo Video
 
-Click below to watch the working demonstration of the Tic Tac Toe circuit:
+👉 [**Click here to watch the demo video**](Screenshots/Video%20demonstration%20of%20digital%20tic%20tac%20toe%20game.mp4)
 
-👉 [**Demo Video (MP4)**](Screenshots/Video demonstration of digital tic tac toe game.mp4)
 
 ## 🛠️ Tools & Requirements
 
